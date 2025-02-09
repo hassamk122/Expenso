@@ -24,3 +24,11 @@ Expenso is a simple and efficient expense tracker built using **React** and **Vi
 ```sh
 git clone https://github.com/your-username/expenso.git
 cd expenso```
+### 2️⃣ Install dependencies
+```sh
+npm install
+```
+### 3️⃣ Start the development server
+```sh
+npm run dev
+```
