@@ -1,0 +1,26 @@
+[
+  { "country": "United States", "currency": "USD", "flag": "/Flag icons/us.svg", "buy": 279.60, "sell": 281.10 },
+  { "country": "Eurozone", "currency": "EUR", "flag": "/Flag icons/eu.svg", "buy": 290.00, "sell": 292.75 },
+  { "country": "United Kingdom", "currency": "GBP", "flag": "/Flag icons/gb.svg", "buy": 346.75, "sell": 350.25 },
+  { "country": "UAE", "currency": "AED", "flag": "/Flag icons/ae.svg", "buy": 75.85, "sell": 76.50 },
+  { "country": "Saudi Arabia", "currency": "SAR", "flag": "/Flag icons/sa.svg", "buy": 74.20, "sell": 74.75 },
+  { "country": "Kuwait", "currency": "KWD", "flag": "/Flag icons/kw.svg", "buy": 896.30, "sell": 905.80 },
+  { "country": "Canada", "currency": "CAD", "flag": "/Flag icons/ca.svg", "buy": 195.60, "sell": 198.00 },
+  { "country": "Australia", "currency": "AUD", "flag": "/Flag icons/au.svg", "buy": 175.75, "sell": 178.00 },
+  { "country": "Oman", "currency": "OMR", "flag": "/Flag icons/om.svg", "buy": 722.90, "sell": 731.40 },
+  { "country": "Japan", "currency": "JPY", "flag": "/Flag icons/jp.svg", "buy": 1.85, "sell": 1.91 },
+  { "country": "Malaysia", "currency": "MYR", "flag": "/Flag icons/my.svg", "buy": 62.18, "sell": 62.78 },
+  { "country": "Qatar", "currency": "QAR", "flag": "/Flag icons/qa.svg", "buy": 75.93, "sell": 76.63 },
+  { "country": "Bahrain", "currency": "BHD", "flag": "/Flag icons/bh.svg", "buy": 738.60, "sell": 746.60 },
+  { "country": "Thailand", "currency": "THB", "flag": "/Flag icons/th.svg", "buy": 8.13, "sell": 8.28 },
+  { "country": "China", "currency": "CNY", "flag": "/Flag icons/cn.svg", "buy": 37.59, "sell": 37.99 },
+  { "country": "Hong Kong", "currency": "HKD", "flag": "/Flag icons/hk.svg", "buy": 35.47, "sell": 35.82 },
+  { "country": "Denmark", "currency": "DKK", "flag": "/Flag icons/dk.svg", "buy": 38.06, "sell": 38.46 },
+  { "country": "New Zealand", "currency": "NZD", "flag": "/Flag icons/nz.svg", "buy": 155.78, "sell": 157.58 },
+  { "country": "Singapore", "currency": "SGD", "flag": "/Flag icons/sg.svg", "buy": 208.25, "sell": 210.25 },
+  { "country": "Norway", "currency": "NOK", "flag": "/Flag icons/no.svg", "buy": 24.51, "sell": 24.81 },
+  { "country": "Sweden", "currency": "SEK", "flag": "/Flag icons/se.svg", "buy": 25.13, "sell": 25.43 },
+  { "country": "Switzerland", "currency": "CHF", "flag": "/Flag icons/ch.svg", "buy": 305.25, "sell": 308.00 },
+  { "country": "India", "currency": "INR", "flag": "/Flag icons/in.svg", "buy": 3.11, "sell": 3.20 }
+]
+

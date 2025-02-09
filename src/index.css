@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme{
+
+         /* Colors */
+  --color-primary-blue:#055db5;
+  --color-secondary-blue:#066cd1;
+  --color-alternate-blue:#05529e;
+
+  --color-primary-black:#2b2b2b;
+  --color-secondary-black:#454545;
+  --color-alternate-black:#ababab;
+
+  --color-symbol-blue:#0078D7;
+  
+  --color-primary-white:#f0f1f2;
+  --color-secondary-white:#d7d8d9;
+
+
+
+         /* Fonts */
+  --font-Montserrat: "Montserrat",serif;
+}
+
+
+
+
