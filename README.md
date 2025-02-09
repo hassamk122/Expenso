@@ -3,8 +3,8 @@
 Expenso is a simple and efficient expense tracker built using **React** and **Vite**, with **Tailwind CSS** for styling. It helps users manage their expenses, track spending trends, and stay financially organized.
 
 ## 📌 Features
-- 📊 **Receipt Maker** – Add, edit, and delete expenses easily to calculate.
-- 🔍 **Download Receipt** – Download your expenses table in txt format.
+- 📝**Receipt Maker** – Add, edit, and delete expenses easily to calculate.
+- 📥**Download Receipt** – Download your expenses table in txt format.
 - 📈 **Currency Rates in Pakistan** – Table showing currency buy and sell rates of some countries.
 - 🌙 **Dark & Light Mode** – User-friendly theme options.
 - 🔄 **Custom Dropdowns** – Implemented using **react-select** for smooth UI interactions.
